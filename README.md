@@ -1,1 +1,3 @@
 # LearnGitHub
+
+*esc* :wq -- Quit
